@@ -2,11 +2,11 @@
 <p>Este repositório é destinado à automatização de envio de emails utilizando as ferramentas Python e Selenium.</p>
 
 <h2>Recursos</h2>
-- Envio de emails com anexos
-- Programação de envios futuros
-- Personalização de emails com imagens e modelos HTML
-- Suporte a diferentes provedores de email, como Gmail e Yahoo Mail
-- Instalação
+-Envio de emails com anexos
+-Programação de envios futuros
+-Personalização de emails com imagens e modelos HTML
+-Suporte a diferentes provedores de email, como Gmail e Yahoo Mail
+-Instalação
 <h4>Antes de usar este repositório, certifique-se de ter instalado as seguintes bibliotecas Python:</h4>
 
 - Selenium
